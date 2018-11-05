@@ -2,4 +2,4 @@
 demo de git qui se passe bien
 
 et maintenant on modifie depuis github
-maisaussi depuis ma machine locale
+mais aussi depuis ma machine locale
